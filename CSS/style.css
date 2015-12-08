@@ -5,6 +5,10 @@ header
 	clear:both;
 	color:#3e38ed;
 }
+p
+{
+    color:#dadaf2;
+}
 main
 {
 	color:#53BDFF;
@@ -87,10 +91,7 @@ iframe
 	width:50%;
 	vertical-align:middle;
 }
-p
-{
-    color:#dadaf2;
-}
+
 h3
 {
 	color:#d10a24;
