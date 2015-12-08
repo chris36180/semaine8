@@ -6,18 +6,18 @@ header
 	color:#3e38ed;
 }
 p
-{
+	{
     color:gray;
 }
 main
-{
+	{
 	color:#53BDFF;
 	background-image:url("../images/noir.jpg");
 	background-attachment:fixed;
 	clear:both;
 }
 footer
-{
+	{
 	background-image:url("../images/noir.jpg");
 	 padding:10px;
     width:100%;
@@ -173,7 +173,7 @@ h3
     width:23%;
     margin:1%;
     display:none;
-    float:none;
+    float:left;
     overflow:hidden;
 }
 
